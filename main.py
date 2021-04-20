@@ -1,4 +1,4 @@
-chmod +x main.py
+! /usr/bin/python
 import requests
 from pprint import pprint
 def weather_data(query):
